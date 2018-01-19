@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StudentGuide</string>
+    <string name="title_activity_exercise_solving">ExerciseSolvingActivity</string>
+    <string name="do_exercise">fazer um exercício</string>
 </resources>
